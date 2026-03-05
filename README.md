@@ -8,4 +8,4 @@ The website acts as a promotional landing page that introduces three different p
 
 This project was developed using only HTML, CSS, and JavaScript, with the goal of demonstrating front-end development techniques, responsive layout design, and digital branding principles.
 
-The website structure follows a marketing-focused layout including hero sections, product descriptions, ingredient highlights, and promotional content designed to simulate a real commercial landing page.
+The website structure follows a marketing-focused layout including hero sections, product descriptions, ingredient highlights, and promotional content designed to simulate a real commercial landing page. 
